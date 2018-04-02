@@ -1,0 +1,52 @@
+/*Lines style*/
+.ge-chord .ge-chord-line {
+    stroke-width: 0.5;
+    stroke: #333333;
+}
+
+/*Title of this chord*/
+.ge-chord .ge-chord-name {
+    stroke: none;
+    font-family: Arial Unicode MS, Arial;
+    fill: #333333;
+    letter-spacing: 0;
+    text-anchor: middle;
+}
+
+/*Point styles*/
+.ge-chord .ge-chord-point text {
+    stroke: none;
+    font-size: 9px;
+    font-family: Arial;
+    fill: #ffffff;
+    text-anchor: middle
+}
+
+/*Barre styles*/
+.ge-chord .ge-chord-barre circle {
+    stroke: none;
+    fill: #555555;
+}
+
+.ge-chord .ge-chord-barre line {
+    stroke: #555555;
+    stroke-linecap: round;
+}
+
+.ge-chord .ge-chord-barre text {
+    stroke: none;
+    font-size: 9px;
+    font-family: Arial;
+    fill: #ffffff;
+    text-anchor: middle;
+}
+
+/*Max and min styles*/
+.ge-chord .ge-chord-min,
+.ge-chord .ge-chord-max {
+    stroke: none;
+    font-size: 9px;
+    font-family: Arial;
+    fill: #333333;
+    text-anchor: middle;
+}
