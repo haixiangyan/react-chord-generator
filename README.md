@@ -88,6 +88,10 @@ The rules are as followed:
 
 ![Instructions](./screenshots/Instruction.JPG)
 
+### Guitar Lyrics
+
+Want to see how to use this to compo with text? Please check [this](https://github.com/Haixiang6123/react-guitar-lyrics) out.
+
 ### Guitar tabs editor
 
 If you like this project, maybe you love my [Guitar-Editor](https://github.com/Haixiang6123/Guitar-Editor).
