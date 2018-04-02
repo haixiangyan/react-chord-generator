@@ -4,9 +4,6 @@
     <list default="true" id="82201495-d885-4ca8-a5f8-cfec85c05232" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" afterPath="$PROJECT_DIR$/src/App.css" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,15 +17,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+              <first_editor relative-caret-position="168">
+                <caret line="20" column="69" lean-forward="false" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
                 <folding>
-                  <marker date="1522688044334" expanded="true" signature="590:613" ph="&lt;div/&gt;" />
-                  <marker date="1522688044334" expanded="true" signature="999:1322" ph="{&quot;name&quot;: &quot;F&quot;...}" />
+                  <marker date="1522688518325" expanded="true" signature="787:810" ph="&lt;div/&gt;" />
+                  <marker date="1522688518325" expanded="true" signature="1196:1519" ph="{&quot;name&quot;: &quot;F&quot;...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -36,11 +33,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Chord.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Chord/Chord.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="57" selection-end-column="12" />
+            <state relative-caret-position="311">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -73,8 +80,8 @@
         <option value="$PROJECT_DIR$/src/components/Chord/utils.js" />
         <option value="$PROJECT_DIR$/src/dataSource/chords.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
-        <option value="$PROJECT_DIR$/src/components/Chord/Chord.jsx" />
         <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/Chord/Chord.jsx" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -185,7 +192,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4290000" />
+    <option name="totallyTimeSpent" value="4812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -228,19 +235,11 @@
           <first_editor relative-caret-position="48">
             <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             <folding>
-              <marker date="1522688044334" expanded="true" signature="590:613" ph="&lt;div/&gt;" />
-              <marker date="1522688044334" expanded="true" signature="999:1322" ph="{&quot;name&quot;: &quot;F&quot;...}" />
+              <marker date="1522688518325" expanded="true" signature="787:810" ph="&lt;div/&gt;" />
+              <marker date="1522688518325" expanded="true" signature="1196:1519" ph="{&quot;name&quot;: &quot;F&quot;...}" />
             </folding>
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="59" column="10" lean-forward="false" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -358,8 +357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Chord/Chord.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="57" selection-end-column="12" />
+        <state relative-caret-position="311">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -367,14 +366,22 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <first_editor relative-caret-position="168">
+            <caret line="20" column="69" lean-forward="false" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
             <folding>
-              <marker date="1522688044334" expanded="true" signature="590:613" ph="&lt;div/&gt;" />
-              <marker date="1522688044334" expanded="true" signature="999:1322" ph="{&quot;name&quot;: &quot;F&quot;...}" />
+              <marker date="1522688518325" expanded="true" signature="787:810" ph="&lt;div/&gt;" />
+              <marker date="1522688518325" expanded="true" signature="1196:1519" ph="{&quot;name&quot;: &quot;F&quot;...}" />
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

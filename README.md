@@ -12,6 +12,17 @@ to define a chord is easier.
 
 ![Screenshot](./screenshots/Sample.png)
 
+## Directory
+
+```
+├── README.md
+├── src
+│   ├── App.js      # Entry point
+│   ├── components  # Chord component & CustomChord component (Nested)
+│   └── dataSource  # Chord data
+└── yarn.lock
+```
+
 ## How to use
 
 `chordName` can be 'Am', 'C', 'Fm' ...
