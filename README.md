@@ -16,10 +16,21 @@ to define a chord is easier.
 
 ```
 ├── README.md
+├── package.json
 ├── src
-│   ├── App.js      # Entry point
-│   ├── components  # Chord component & CustomChord component (Nested)
-│   └── dataSource  # Chord data
+│   ├── App.js   ## Entry point
+│   ├── components
+│   │   └── Chord
+│   │       ├── Chord.jsx  
+│   │       ├── CustomChord
+│   │       │   ├── CustomChord.jsx  ## CustomChord component
+│   │       │   ├── styles.css
+│   │       │   └── utils.js  ## Files to calculate position of svg
+│   │       └── chords.js     ## Normal chord component
+│   ├── dataSource
+│   │   └── chords.js         ## All chords data
+│   ├── index.js
+│   └── registerServiceWorker.js
 └── yarn.lock
 ```
 
