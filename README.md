@@ -34,6 +34,14 @@ to define a chord is easier.
 └── yarn.lock
 ```
 
+## How to run
+
+```bash
+$ npm install
+
+$ npm start
+```
+
 ## How to use
 
 `chordName` can be 'Am', 'C', 'Fm' ...
